@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item1"
+        android:title="Speed"
+        android:icon="@drawable/ic_wheelchair_on_speed"/>
+
+    <item
+        android:id="@+id/item2"
+        android:title="Slow"
+        android:icon="@drawable/ic_wheelchair"/>
+
+    <item
+        android:id="@+id/item3"
+        android:title="T-Pose"
+        android:icon="@drawable/ic_tpose"/>
+</menu>
