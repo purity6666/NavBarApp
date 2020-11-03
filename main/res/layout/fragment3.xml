@@ -3,24 +3,15 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#1BD39F">
+    android:background="#212121">
 
     <TextView
         android:id="@+id/gayTxt"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="30sp"
-        android:text="I'm totally gay"
+        android:text="Fragment Shop"
         android:textColor="#FFF"
         android:layout_centerInParent="true"/>
-
-    <Button
-        android:id="@+id/gayButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="gay"
-        android:layout_below="@+id/gayTxt"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="10dp"/>
 
 </RelativeLayout>

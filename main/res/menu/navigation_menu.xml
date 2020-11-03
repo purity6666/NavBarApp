@@ -2,16 +2,21 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/item1"
-        android:title="Speed"
-        android:icon="@drawable/ic_wheelchair_on_speed"/>
+        android:title="Stats"
+        android:icon="@drawable/ic_stats"/>
 
     <item
         android:id="@+id/item2"
-        android:title="Slow"
-        android:icon="@drawable/ic_wheelchair"/>
+        android:title="Dashboard"
+        android:icon="@drawable/ic_dashboard"/>
 
     <item
         android:id="@+id/item3"
-        android:title="T-Pose"
-        android:icon="@drawable/ic_tpose"/>
+        android:title="Shop"
+        android:icon="@drawable/ic_shop"/>
+
+    <item
+        android:id="@+id/item4"
+        android:title="Settings"
+        android:icon="@drawable/ic_settings"/>
 </menu>
